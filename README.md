@@ -18,13 +18,15 @@
 
 ---
 
+## 📝 Docs
+- [Privacy Policy](privacy-policy.md)
+- [EULA](eula.md)
+- [Terms of Use](terms-of-use.md)
+
+---
+
 ## 📜 Copyright & License
 
 © 2026 Abraham Doe. All rights reserved.
 
 Distributed under the Licensed Application End User License Agreement (EULA).
-
-## Docs
-- [Privacy Policy](roe_privacy_policy.md)
-- [EULA](roe_eula.md)
-- [Terms of Use](roe_terms_of_use.md)
